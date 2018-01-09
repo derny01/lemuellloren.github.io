@@ -11,3 +11,6 @@ a static website made by hardwork.
 
 * [fontawesome](http://fontawesome.io/) - The icon toolkit used
 
+## Forked by
+
+* Derny
